@@ -15,7 +15,7 @@
 **•	CONJUNTO DE DATOS:** En la siguiente base de datos podemos encontrar información acerca de la productividad y rendimiento de los empleados en la compañía. Aspectos como su profesión, salario, edad, genero, horas extras, trabajo remoto, puntuación de rendimiento, así como la satisfacción del empleado entre muchos otros aspectos. Aca evaluamos la correlacion entre varios factores como renuncia, satisfaccion y puntuacion frente a los distintos aspectos previamente mencionados. Observamos promedios, dispercion, media, mediana, desviacion estandar y en los casos que se necesito hicimos regresion lineal y medianas, para poder entender los factores y patrones que permiten un mejor desarrollo de productividad laboral.
 
 **• ENLACE DASHBOARD ARCHIVO EXCEL**
-🖥️ DRIVE:[Ver el video en ScreenApp](https://docs.google.com/spreadsheets/d/1UZSkHxBwCbUD6Sz-Q2SQWkp8E5p2b1bL/edit?usp=sharing&ouid=109488596901644772665&rtpof=true&sd=true)
+🖥️ DRIVE:[Drive-Archivo](https://docs.google.com/spreadsheets/d/1UZSkHxBwCbUD6Sz-Q2SQWkp8E5p2b1bL/edit?usp=sharing&ouid=109488596901644772665&rtpof=true&sd=true)
 
 **• VIDEO DEMOSTRATIVO DEL DASHBOARD**
 
