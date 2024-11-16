@@ -16,3 +16,7 @@
 
 **ENLACE DASHBOARD ARCHIVO EXCEL**
 🖥️ DRIVE: https://docs.google.com/spreadsheets/d/1UZSkHxBwCbUD6Sz-Q2SQWkp8E5p2b1bL/edit?usp=sharing&ouid=109488596901644772665&rtpof=true&sd=true
+
+**•	IMAGEN-DASHBOARD 1:**
+
+![IMAGEN1](https://github.com/pocolus/Portfolio-Excel02/blob/main/1.png)
