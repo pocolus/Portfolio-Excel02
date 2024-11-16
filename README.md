@@ -17,6 +17,11 @@
 **• ENLACE DASHBOARD ARCHIVO EXCEL**
 🖥️ DRIVE: https://docs.google.com/spreadsheets/d/1UZSkHxBwCbUD6Sz-Q2SQWkp8E5p2b1bL/edit?usp=sharing&ouid=109488596901644772665&rtpof=true&sd=true
 
+**• VIDEO DEMOSTRATIVO DEL DASHBOARD**
+
+Puedes ver el video directamente en el siguiente enlace:  
+[Ver el video en ScreenApp](https://screenapp.io/app/#/shared/kHyfSf_mCk)
+
 
 **•	IMAGEN-DASHBOARD 1:**
 
